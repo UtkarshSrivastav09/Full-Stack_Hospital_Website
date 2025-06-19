@@ -270,7 +270,7 @@ ul li a:hover::after{
     padding: 40px;
     margin-top: 66px;
     background-color: rgb(15, 99, 99);
-    background-image: url(/Image/bg2.jpg);
+    background-image: url(bg2.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
